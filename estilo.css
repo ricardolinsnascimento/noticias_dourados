@@ -1,0 +1,74 @@
+
+/* Estilos básicos da página Notícias Insanas de Dourados */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    color: #222;
+    background-color: #f4f4f4;
+}
+
+.cabecalho {
+    padding: 24px 16px;
+    text-align: center;
+    color: #fff;
+    background-color: #244b3b;
+}
+
+.cabecalho h1 {
+    margin: 0 0 8px;
+}
+
+.cabecalho p {
+    margin: 0;
+}
+
+.container {
+    width: min(900px, 92%);
+    margin: 24px auto;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+
+h2 {
+    margin-top: 0;
+    color: #244b3b;
+}
+
+a {
+    color: #145c9e;
+}
+
+a:hover {
+    color: #0b3760;
+}
+
+.lista-imagens {
+    padding-left: 24px;
+}
+
+.lista-imagens li {
+    margin: 6px 0;
+}
+
+.aviso {
+    border-left: 4px solid #d6a72c;
+}
+
+.rodape {
+    padding: 16px;
+    text-align: center;
+    color: #555;
+    font-size: 0.9rem;
+}
