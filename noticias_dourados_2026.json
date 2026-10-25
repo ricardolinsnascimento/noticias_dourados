@@ -1,0 +1,182 @@
+[
+    {
+        "id_noticia": 1,
+        "titulo": "Bar é fechado após vender bebida alcoólica para menores de idade",
+        "resumo": "Um bar localizado na região central de Dourados foi interditado após uma fiscalização constatar a venda de bebidas alcoólicas para adolescentes durante uma festa.",
+        "noticia": "Uma fiscalização realizada em uma noite de sexta-feira terminou com a interdição de um bar no centro de Dourados. Segundo o relatório da ocorrência, agentes encontraram adolescentes consumindo bebidas alcoólicas no estabelecimento e identificaram a venda dos produtos para menores de idade. O proprietário afirmou que confundiu as idades dos clientes porque todos estavam usando bonés e óculos escuros. O estabelecimento deverá permanecer fechado até a conclusão dos procedimentos administrativos.",
+        "autor": "Homer Simpson",
+        "data_noticia": "2026-01-17",
+        "imagem": "bar-fiscalizacao.png"
+    },
+    {
+        "id_noticia": 2,
+        "titulo": "Adolescentes realizam campeonato constrangedor de farmar aura em praça de Dourados",
+        "resumo": "Grupo de adolescentes reuniu dezenas de participantes em uma competição inusitada para descobrir quem conseguia acumular mais 'pontos de aura' diante do público.",
+        "noticia": "Uma praça de Dourados foi palco de um campeonato inusitado organizado por adolescentes durante o fim de semana. A competição, chamada de 'Desafio Supremo da Aura', consistia em realizar poses, caminhadas e discursos considerados pelos participantes como capazes de aumentar a aura pessoal. O vencedor recebeu uma faixa escrita 'Mais Aura de Dourados 2026' e uma coxinha. Moradores acompanharam a competição sem entender completamente as regras, mas aplaudiram o campeão.",
+        "autor": "Bob Esponja",
+        "data_noticia": "2026-02-08",
+        "imagem": "campeonato-aura.png"
+    },
+    {
+        "id_noticia": 3,
+        "titulo": "Capivaras invadem sorveteria no centro de Dourados",
+        "resumo": "Duas capivaras entraram em uma sorveteria e permaneceram próximas ao balcão durante vários minutos antes de serem conduzidas de volta para a área externa.",
+        "noticia": "Duas capivaras surpreenderam clientes de uma sorveteria localizada no centro de Dourados ao entrarem tranquilamente no estabelecimento em uma tarde de domingo. Segundo testemunhas, os animais caminharam até o balcão e permaneceram observando os funcionários enquanto clientes registravam a cena com celulares. Ninguém soube explicar como as capivaras chegaram ao local. Após alguns minutos, elas saíram acompanhadas por funcionários e seguiram pela calçada até desaparecerem.",
+        "autor": "Pica-Pau",
+        "data_noticia": "2026-03-14",
+        "imagem": "capivaras-sorveteria.png"
+    },
+    {
+        "id_noticia": 4,
+        "titulo": "Dourados registra epidemia de doenças respiratórias por elevado consumo de vape entre adolescentes",
+        "resumo": "Especialistas alertaram para o aumento de problemas respiratórios entre adolescentes e atribuíram o cenário ao crescimento do uso de cigarros eletrônicos.",
+        "noticia": "Dourados registrou um aumento expressivo de atendimentos relacionados a problemas respiratórios entre adolescentes. Profissionais de saúde alertaram que o uso frequente de cigarros eletrônicos poderia estar relacionado ao cenário. Escolas passaram a organizar campanhas educativas e rodas de conversa sobre os riscos do consumo de produtos para inalação. As autoridades reforçaram que a notícia faz parte de uma atividade acadêmica e não representa um boletim epidemiológico real.",
+        "autor": "Scooby-Doo",
+        "data_noticia": "2026-04-03",
+        "imagem": "doencas-respiratorias.png"
+    },
+    {
+        "id_noticia": 5,
+        "titulo": "Nova rádio FM de Dourados que não toca sertanejo decreta falência após uma semana de programação",
+        "resumo": "Uma rádio que apostou exclusivamente em gêneros musicais alternativos encerrou as atividades após apenas sete dias no ar.",
+        "noticia": "Uma nova emissora de rádio de Dourados anunciou o encerramento das atividades apenas uma semana depois de iniciar sua programação. A proposta da estação era transmitir exclusivamente jazz, rock progressivo, música instrumental e trilhas sonoras de videogames. De acordo com os responsáveis, a audiência não atingiu as expectativas e os patrocinadores desistiram do projeto. O diretor afirmou que a emissora ainda tentou incluir uma música sertaneja na programação, mas o computador apresentou uma mensagem de erro e ninguém soube resolver.",
+        "autor": "Mickey Mouse",
+        "data_noticia": "2026-04-27",
+        "imagem": "radio-fm.png"
+    },
+    {
+        "id_noticia": 6,
+        "titulo": "Acidente no cruzamento da Rua Rayel Bon Faker com Marcelino Pires envolve quatro motinhas elétricas",
+        "resumo": "Quatro motocicletas elétricas colidiram em um cruzamento após os condutores admitirem que não sabiam interpretar algumas placas de sinalização.",
+        "noticia": "Quatro motinhas elétricas se envolveram em uma colisão no cruzamento da Rua Rayel Bon Faker com a Avenida Marcelino Pires, em Dourados. Segundo a narrativa da ocorrência, os quatro condutores chegaram ao cruzamento simultaneamente e nenhum deles conseguiu explicar quem tinha preferência. Após o acidente, os envolvidos descobriram que todos tinham passado pelas aulas de legislação de trânsito, mas nenhum havia prestado atenção na parte das placas. Apesar do susto, ninguém ficou ferido.",
+        "autor": "Patolino",
+        "data_noticia": "2026-05-11",
+        "imagem": "acidente-motinhas.png"
+    },
+    {
+        "id_noticia": 7,
+        "titulo": "Câmara de Vereadores aprova proibição de uso de Crocs no município de Dourados",
+        "resumo": "Projeto aprovado em uma sessão extraordinária propôs restringir o uso de Crocs em determinados espaços públicos do município.",
+        "noticia": "Em uma sessão extraordinária, a Câmara de Vereadores de Dourados aprovou um projeto de lei que proibiria o uso de Crocs em determinados espaços públicos do município. O texto, apresentado como uma sátira legislativa, prevê multa para quem utilizar o calçado em repartições públicas usando a tira traseira levantada. Durante a votação, um vereador teria aparecido usando Crocs e provocado risadas no plenário. A proposta não corresponde a uma lei real e foi criada exclusivamente para fins didáticos.",
+        "autor": "Pernalonga",
+        "data_noticia": "2026-05-29",
+        "imagem": "crocs-proibidos.png"
+    },
+    {
+        "id_noticia": 8,
+        "titulo": "Morador de Dourados cria semáforo para organizar fila de cachorro-quente",
+        "resumo": "Uma estrutura improvisada passou a controlar a ordem de atendimento em uma barraca de cachorro-quente e viralizou entre os clientes.",
+        "noticia": "Um morador de Dourados instalou um pequeno semáforo eletrônico ao lado de uma barraca de cachorro-quente para organizar a fila de clientes. A invenção utiliza luzes vermelha, amarela e verde e foi programada para liberar um novo pedido a cada dois minutos. A ideia surgiu depois de uma discussão sobre quem havia chegado primeiro. O equipamento chamou tanta atenção que clientes começaram a fazer vídeos e publicar nas redes sociais. O criador agora afirma que pretende patentear o sistema.",
+        "autor": "Dexter",
+        "data_noticia": "2026-06-06",
+        "imagem": "semaforo-cachorro-quente.png"
+    },
+    {
+        "id_noticia": 9,
+        "titulo": "Professor de Dourados cria campeonato para descobrir quem encontra o carregador perdido mais rápido",
+        "resumo": "A competição surgiu depois que uma turma passou vários minutos procurando um carregador que estava sobre a própria mesa.",
+        "noticia": "Uma turma de Dourados transformou um problema cotidiano em competição. Depois que vários estudantes procuraram durante dez minutos um carregador que estava sobre uma mesa, um professor decidiu criar o 'Campeonato Municipal de Caça ao Carregador'. Os participantes precisam localizar objetos eletrônicos escondidos em uma sala no menor tempo possível. O vencedor da primeira edição encontrou três carregadores, dois cabos e um fone de ouvido que ninguém sabia que estava perdido.",
+        "autor": "Professor Girafales",
+        "data_noticia": "2026-06-21",
+        "imagem": "caca-carregador.png"
+    },
+    {
+        "id_noticia": 10,
+        "titulo": "Mercado de Dourados lança fila exclusiva para clientes que esqueceram o que foram comprar",
+        "resumo": "Um supermercado criou uma fila experimental para clientes que chegam ao caixa sem conseguir lembrar todos os produtos que pretendiam comprar.",
+        "noticia": "Um supermercado de Dourados inaugurou uma fila experimental destinada a clientes que chegam ao caixa e percebem que esqueceram algum item. A fila recebeu o nome de 'Eu Tinha Certeza Que Peguei'. Funcionários oferecem dois minutos para que o cliente tente lembrar o produto perdido antes de seguir para o pagamento. A iniciativa teve grande adesão no primeiro dia e acabou sendo ampliada para os corredores de produtos de limpeza.",
+        "autor": "Cebolinha",
+        "data_noticia": "2026-07-04",
+        "imagem": "fila-supermercado.png"
+    },
+    {
+        "id_noticia": 11,
+        "titulo": "Chuva de pipoca interrompe partida de futebol em bairro de Dourados",
+        "resumo": "Uma máquina de pipoca apresentou defeito durante um evento esportivo e espalhou centenas de grãos sobre uma quadra.",
+        "noticia": "Uma partida de futebol amador foi interrompida em Dourados depois que uma máquina de pipoca instalada próxima à quadra apresentou uma falha e começou a lançar pipocas para todos os lados. Jogadores, torcedores e o árbitro precisaram abandonar o campo enquanto funcionários tentavam desligar o equipamento. A partida foi retomada cerca de quarenta minutos depois, quando o local foi declarado livre de pipocas. O placar terminou em 2 a 2.",
+        "autor": "Tom",
+        "data_noticia": "2026-07-19",
+        "imagem": "chuva-pipoca.png"
+    },
+    {
+        "id_noticia": 12,
+        "titulo": "Moradores de Dourados organizam protesto contra aplicativo que sempre manda dar a volta no quarteirão",
+        "resumo": "Grupo de motoristas realizou uma manifestação contra rotas consideradas desnecessariamente longas por aplicativos de navegação.",
+        "noticia": "Um grupo de motoristas realizou uma manifestação em Dourados contra aplicativos de navegação que, segundo eles, insistem em indicar caminhos mais longos. Os participantes levaram cartazes com frases como 'Eu conheço um atalho' e 'Não vou dar a volta de novo'. O movimento ganhou força depois que um motorista foi orientado a percorrer quase dois quilômetros para retornar a uma rua localizada a menos de 200 metros de distância.",
+        "autor": "Garfield",
+        "data_noticia": "2026-08-02",
+        "imagem": "protesto-aplicativo.png"
+    },
+    {
+        "id_noticia": 13,
+        "titulo": "Biblioteca de Dourados cria multa para quem devolve livro antes de terminar de ler",
+        "resumo": "Regra criada por funcionários gerou confusão entre leitores, que passaram a pedir mais prazo para terminar livros devolvidos antecipadamente.",
+        "noticia": "Uma biblioteca de Dourados anunciou uma regra  que prevê multa simbólica para leitores que devolvem livros antes de terminar a leitura. A justificativa seria evitar que os funcionários precisassem registrar devoluções de obras que, segundo eles, ainda estavam 'emocionalmente em uso'. Leitores questionaram a medida e começaram a devolver livros com apenas uma página lida para testar o sistema. A biblioteca informou posteriormente que a regra fazia parte de uma atividade humorística.",
+        "autor": "Mafalda",
+        "data_noticia": "2026-08-17",
+        "imagem": "biblioteca-livros.png"
+    },
+    {
+        "id_noticia": 14,
+        "titulo": "Cachorro assume função de fiscal de estacionamento em rua movimentada de Dourados",
+        "resumo": "Um cachorro que costuma permanecer próximo a uma loja passou a ser chamado de 'fiscal' por motoristas depois de latir sempre que um carro estacionava em local proibido.",
+        "noticia": "Um cachorro conhecido pelos comerciantes de uma rua movimentada de Dourados virou atração depois que passou a latir sempre que um veículo estacionava em local proibido. Motoristas começaram a brincar dizendo que o animal havia assumido a função de fiscal de estacionamento. O cachorro recebeu um colete improvisado e passou a ser fotografado pelos comerciantes. A prefeitura informou que o animal não possui qualquer vínculo oficial com a fiscalização municipal.",
+        "autor": "Scooby-Doo",
+        "data_noticia": "2026-09-01",
+        "imagem": "cachorro-fiscal.png"
+    },
+    {
+        "id_noticia": 15,
+        "titulo": "Restaurante de Dourados lança rodízio de pão de alho e provoca filas de três quarteirões",
+        "resumo": "Uma promoção de rodízio de pão de alho atraiu centenas de pessoas e obrigou o restaurante a distribuir senhas.",
+        "noticia": "Um restaurante de Dourados criou uma promoção de rodízio de pão de alho e rapidamente ficou lotado. A fila teria ocupado três quarteirões, segundo relatos humorísticos publicados nas redes sociais. O estabelecimento precisou distribuir senhas e estabeleceu um limite de quarenta unidades por pessoa. Clientes chegaram a discutir estratégias para aumentar a velocidade de consumo, enquanto funcionários afirmavam que nunca tinham visto tanta gente interessada em pão de alho.",
+        "autor": "Finn",
+        "data_noticia": "2026-09-13",
+        "imagem": "rodizio-pao-alho.png"
+    },
+    {
+        "id_noticia": 16,
+        "titulo": "Estudantes criam inteligência artificial que responde 'depende' para qualquer pergunta",
+        "resumo": "Projeto acadêmico desenvolvido por estudantes de Dourados ganhou destaque por apresentar uma IA programada para responder apenas 'depende'.",
+        "noticia": "Estudantes de Dourados apresentaram uma inteligência artificial experimental que, independentemente da pergunta recebida, responde apenas 'depende'. O grupo afirma que o sistema levou três semanas para ser desenvolvido e possui uma arquitetura extremamente sofisticada, composta por uma única resposta armazenada em um arquivo de texto. Apesar da simplicidade, o projeto foi elogiado pela capacidade de evitar respostas definitivas. Os estudantes agora estudam uma versão capaz de responder 'talvez'.",
+        "autor": "Jimmy Neutron",
+        "data_noticia": "2026-10-05",
+        "imagem": "ia-depende.png"
+    },
+    {
+        "id_noticia": 17,
+        "titulo": "Prefeitura de Dourados inaugura faixa de pedestres exclusiva para quem está com pressa",
+        "resumo": "Uma intervenção urbana criou uma faixa especial que permitiria atravessar a rua cinco segundos mais rápido.",
+        "noticia": "Uma faixa de pedestres exclusiva para pessoas com pressa foi inaugurada em Dourados em uma cerimônia. A sinalização possui uma placa com os dizeres 'Atravessadores com urgência'. Para utilizar a faixa, o pedestre precisa caminhar rapidamente e demonstrar expressão de preocupação. Especialistas ouvidos pela reportagem não conseguiram explicar qual seria a diferença prática entre a nova faixa e as demais, mas afirmaram que a iniciativa parecia bastante eficiente para gerar discussões.",
+        "autor": "Pato Donald",
+        "data_noticia": "2026-10-22",
+        "imagem": "faixa-pressa.png"
+    },
+    {
+        "id_noticia": 18,
+        "titulo": "Shopping de Dourados instala elevador que só funciona quando o usuário diz 'por favor'",
+        "resumo": "Equipamento teria sido programado para liberar o acesso somente depois que os passageiros utilizassem uma palavra de gentileza.",
+        "noticia": "Um shopping de Dourados instalou, em uma situação totalmente, um elevador equipado com reconhecimento de voz. O sistema só permitiria a movimentação depois que algum passageiro dissesse 'por favor'. Durante os primeiros testes, clientes descobriram que o elevador também aceitava 'por gentileza' e 'se não for pedir demais'. A administração afirmou que a tecnologia faz parte de um projeto experimental para incentivar boas maneiras.",
+        "autor": "Mônica",
+        "data_noticia": "2026-11-07",
+        "imagem": "elevador-por-favor.png"
+    },
+    {
+        "id_noticia": 19,
+        "titulo": "Feira de Dourados registra recorde de pessoas tentando adivinhar o peso de uma melancia gigante",
+        "resumo": "Uma melancia de tamanho incomum virou atração principal de uma feira e reuniu centenas de palpites.",
+        "noticia": "Uma melancia gigante se tornou a principal atração de uma feira em Dourados. Visitantes foram convidados a adivinhar o peso da fruta sem tocá-la. Foram registrados mais de trezentos palpites, variando de oito a 96 quilos. O peso oficial, revelado no final do evento, surpreendeu o público. O vencedor recebeu a própria melancia e declarou que ainda não sabia o que faria com ela.",
+        "autor": "Gumball",
+        "data_noticia": "2026-11-19",
+        "imagem": "melancia-gigante.png"
+    },
+    {
+        "id_noticia": 20,
+        "titulo": "Dourados inaugura banco de praça com Wi-Fi, carregador de celular e conselho amoroso",
+        "resumo": "Projeto urbano instalou bancos equipados com internet, carregadores e mensagens automáticas de aconselhamento.",
+        "noticia": "Um projeto urbano instalou em Dourados bancos de praça equipados com Wi-Fi gratuito, carregadores USB e um sistema de mensagens de aconselhamento amoroso. Ao pressionar um botão, o usuário recebe frases como 'converse antes de bloquear' e 'não mande mensagem para o ex às três da manhã'. A iniciativa rapidamente virou ponto de encontro de estudantes e curiosos. A equipe responsável informou que pretende adicionar futuramente um botão de conselhos financeiros.",
+        "autor": "Lilo",
+        "data_noticia": "2026-12-12",
+        "imagem": "banco-wifi.png"
+    }
+]
